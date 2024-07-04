@@ -1,10 +1,15 @@
+
+
+
 # My Unity Game
 
 Welcome to my Unity game project!
 
 ## Download
 
-You can download the latest version of the game [here]([https://github.com/username/repositoryname/raw/main/Builds/MyGame.apk](https://github.com/AriyaArKa/Android-Ball-Bounce-game/blob/main/BallBounce.apk)).
+<a href="https://github.com/AriyaArKa/Android-Ball-Bounce-game/blob/main/BallBounce.apk" download="MyGame.apk" style="display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007bff;border-radius:5px;text-align:center;text-decoration:none;cursor:pointer;">
+  Download
+</a>
 
 ## How to Play
 
