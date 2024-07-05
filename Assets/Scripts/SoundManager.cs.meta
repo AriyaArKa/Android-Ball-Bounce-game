@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 740507234414fa643850e8c6a3eece22
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bgMusicSource: {instanceID: 0}
+  - sfxSource: {instanceID: 0}
+  - bgMusic: {fileID: 8300000, guid: d6edd80b84384f640a68de6ba71eced8, type: 3}
+  - hitPaddleSFX: {fileID: 8300000, guid: 4950d949d43a6984ead72cfd1ad5fde7, type: 3}
+  - gameOverSFX: {fileID: 8300000, guid: b15c46aadb8b9504ea9b8da6a1199743, type: 3}
+  - gameStartSFX: {fileID: 8300000, guid: 49fd0df38b8fa2b44af52a4fab32d55a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
