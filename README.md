@@ -4,25 +4,21 @@ Welcome to the **Ball Bounce Game**, a fun and engaging Unity-based Android game
 
 ## 📥 Download
 
-\## Download
+### Download APK
 
+<a href="https://github.com/AriyaArKa/Android-Ball-Bounce-game/blob/main/BallBounce.apk" download="MyGame.apk" style="display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007bff;border-radius:5px;text-align:center;text-decoration:none;cursor:pointer;">
+Download APK
+</a>
 
+<br>
 
-\<a href="[https://github.com/AriyaArKa/Android-Ball-Bounce-game/blob/main/BallBounce.apk](https://github.com/AriyaArKa/Android-Ball-Bounce-game/blob/main/BallBounce.apk)" download="MyGame.apk" style="display\:inline-block;padding:10px 20px;font-size:16px;color\:white;background-color:#007bff;border-radius:5px;text-align\:center;text-decoration\:none;cursor\:pointer;">
+### Mobile Screen Interface
 
-&#x20; Download APK
+<a href="https://github.com/AriyaArKa/Android-Ball-Bounce-game/tree/main/UI" style="display:inline-block;padding:10px 20px;font-size:16px;color:white;background-color:#007bff;border-radius:5px;text-align:center;text-decoration:none;cursor:pointer;">
+Mobile Screen Interface
+</a>
 
-\</a>
-
-\<br>
-
-\<a href="[https://github.com/AriyaArKa/Android-Ball-Bounce-game/tree/main/UI](https://github.com/AriyaArKa/Android-Ball-Bounce-game/tree/main/UI)" download="MyGame.apk" style="display\:inline-block;padding:10px 20px;font-size:16px;color\:white;background-color:#007bff;border-radius:5px;text-align\:center;text-decoration\:none;cursor\:pointer;">
-
-&#x20; Mobile Screen interface
-
-\</a>
-
-🎮 How to Play
+## 🎮 How to Play
 
 1. Open the game on your Android device.
 2. Tap anywhere on the screen to start.
@@ -61,16 +57,13 @@ Ball-Bounce-Game/
 
 ## 📜 Code Overview
 
-### Ball.cs
-
+### `Ball.cs`
 Handles ball movement, collision detection, and game start logic.
 
-### GameManager.cs
-
+### `GameManager.cs`
 Manages game state, score updates, and restarts.
 
-### SoundManager.cs
-
+### `SoundManager.cs`
 Handles background music and sound effects for different events.
 
 ## 🔧 Future Enhancements
